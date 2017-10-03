@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>cat.gencat.acps.esocial</groupId>
   <artifactId>test-release-assembly</artifactId>
-  <version>0.1</version>
+  <version>0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <scm>
