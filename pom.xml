@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>cat.gencat.acps.esocial</groupId>
   <artifactId>test-release-assembly</artifactId>
-  <version>0.3</version>
+  <version>0.3-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <scm>
 	<url>https://github.com/CarlosCintado/test-release-assembly</url>
 	<connection>scm:git:https://github.com/CarlosCintado/test-release-assembly.git</connection>
-    <tag>v0.3</tag>
+    <tag>HEAD</tag>
   </scm>
   
   	<!-- Repository Information -->
